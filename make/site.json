@@ -1,0 +1,10 @@
+{
+  "description": "Streamline recruitment with AI-driven interview creation for recruiters and realistic practice sessions for candidates, enhancing hiring efficiency and candidate readiness.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
